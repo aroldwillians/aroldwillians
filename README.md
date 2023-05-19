@@ -23,4 +23,4 @@
   
 </div>
 
--  👨‍💻 Atualmente estou cursando análise e desenvolvimento de sistemas  com o intuito de ser um desenvolvedor focado em front-end e para isso realizo cursos de áreas corelatas para adicionar ao meu conhecimento, como curso de Ux/Ui designer.
+-  👨‍💻 Atualmente estou cursando análise e desenvolvimento de sistemas  com o intuito de ser um desenvolvedor focado em front-end e paralelo a isso realizo cursos de áreas corelatas para adicionar ao meu conhecimento, como curso de Ux/Ui designer.
