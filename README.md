@@ -1,4 +1,5 @@
-## Olá! Eu sou Arold Willians, entusiasta e curioso na área de programação e tecnologia!
+## Olá! 
+Me Arold Willians, entusiasta e curioso na área de programação e de UX/UI designer
 
 
 ![Arold Willians GitHub](https://github-readme-stats.vercel.app/api?username=aroldwillians&show_icons=true&theme=transparent)
