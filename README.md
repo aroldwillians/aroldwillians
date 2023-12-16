@@ -1,5 +1,5 @@
 ## Olá! 
- Eu me chamo Arold Willians, entusiasta e curioso na área de programação e de UX/UI designer
+ Eu me chamo Arold Willians, sou um entusiasta e curioso na área de programação e de UX/UI designer
 
  
 
