@@ -3,4 +3,4 @@
 
  
 
--  👨‍💻 Atualmente estou cursando análise e desenvolvimento de sistemas  com o intuito de ser um desenvolvedor focado em front-end e paralelo a isso realizo cursos de áreas corelatas para somer ao meu conhecimento, como curso de Ux/Ui designer, sempre me preocupando com tecnologias e desenvolvimento voltado a pessoas com deficiencia e garantindo um desenvolvimento mais igualitario.
+-  👨‍💻 Atualmente estou cursando análise e desenvolvimento de sistemas  com o intuito de ser um desenvolvedor focado em front-end e paralelo a isso realizo cursos de áreas corelatas para somar ao meu conhecimento, como curso de Ux/Ui designer, sempre me preocupando com tecnologias e desenvolvimento voltado à pessoas com deficiência e garantindo um desenvolvimento mais igualitario.
